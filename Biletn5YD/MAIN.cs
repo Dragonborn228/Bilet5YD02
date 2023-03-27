@@ -22,6 +22,7 @@ namespace Biletn5YD
         public MAIN()
         {
             InitializeComponent();
+            pictureBox1.ImageLocation = $@"C:\Users\User\Desktop\Biletn5YD\Biletn5YD\resurse\Formjpg.jpg";
         }
 
         private void button1_Click(object sender, EventArgs e)
